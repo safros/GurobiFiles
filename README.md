@@ -17,7 +17,7 @@ Col M contains the mutliplier for supply.
 Col N - W contains 10 scenarios.
 
 ## Node_stochastic_10, Node_stochastic_20, Node_stochastic_30, Node_stochastic_40, Node_stochastic_50
-Contain the data for the stoachastic runs. 
+Contain the data for the stoachastic runs. The first sheet Node_stochastic_10 indicates a variance of 10%, Node_stochastic_20 a variance of 20%, Node_stochastic_30 a variance of 30%, Node_stochastic_40 a varience of 40%, and Node_stochastic_50 a variance of 50%.
 
 ## distanceMatrixCtoR
 The matrix for the distances for collection nodes to remanufacturing nodes.
